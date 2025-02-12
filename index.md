@@ -4,7 +4,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
-
-ADDED A HEADER, image and a code example IN INDEX.MD
+ADDED A HEADER, image, code and list example IN INDEX.MD
